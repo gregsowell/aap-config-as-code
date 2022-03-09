@@ -1,0 +1,11 @@
+---
+inv_source:
+  - name: AWS Inventory Source 1
+    inventory_name: AWS Inventory
+    inventory_credential: EC2-Cred1
+    source: ec2
+
+  - name: AWS Inventory Source 2
+    inventory_name: AWS Inventory
+    inventory_credential: EC2-Cred2
+    source: ec2

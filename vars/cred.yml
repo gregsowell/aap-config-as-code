@@ -1,0 +1,19 @@
+---
+creds:
+  - name: EC2-Cred1
+    type: Amazon Web Services
+    state: present
+    #secret key
+    password: 1234
+    #access key
+    username: 5678
+    org: Default
+
+  - name: EC2-Cred2
+    type: Amazon Web Services
+    state: present
+    #secret key
+    password: 1234
+    #access key
+    username: 5678
+    org: Default

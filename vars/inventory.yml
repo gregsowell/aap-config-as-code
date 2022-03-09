@@ -1,0 +1,5 @@
+---
+inv_var:
+  - name: AWS Inventory
+    state: present
+    org: Default
